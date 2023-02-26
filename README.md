@@ -88,3 +88,16 @@ II. PRODUCT BUY FLOW
 11. confirming the order
 12. successful completion of the order
 
+
+III. USER REGISTRATION
+
+At the end of checking out the details of the user is prompted which includes the following
+    1. First Name and last name
+    2. email
+    3. phone no
+    4. address
+    5. city
+    6. postcode
+    7. country
+    8. region
+
