@@ -169,6 +169,8 @@ II. PRODUCT BUY FLOW
 11. confirming the order
 12. successful completion of the order
 
+SAMPLE TEST CASES
+
 #Open URL and maximize window
 
 driver.get('http://tutorialsninja.com/demo/')
@@ -434,8 +436,10 @@ At the end of checking out the details of the user is prompted which includes th
     7. country
     8. region
     
-    
+   SAMPLE TEST CASES
+   
     #click on guest account
+   
 guest=driver.find_element(By.XPATH,'//input[@value="guest"]')
 guest.click()
 
