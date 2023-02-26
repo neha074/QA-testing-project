@@ -36,7 +36,7 @@ driver.quit()
 
 
 
-
+I.
 For any ecommerce application there are n number of test cases that has to be considered for its fullest efficiency and working.
 For example for an ecommerce website the test cases include :
 
@@ -54,13 +54,37 @@ Shipping and delivery: Test the shipping and delivery process and ensure that th
 
 Customer support: Test the customer support functionality, including chatbots, customer service emails, and phone support. Verify that customer service requests are routed to the correct department, and customers receive prompt and helpful responses.
 
-In this project i've used the following general test cases for an ecommerce apllication
+In this project i've used the following general test cases for an ecommerce application
 
-2. To view a particular item, get glimpse of their pictures
-3. Add the quantity of the items
-4. Selecting the date of order of item
-5. Checking out the item
-6. Right after checking out activating the registration and fetching details of the user like their name , email, address , city country etc 
-7. Accepting the terms and conditions an receiving the successful completion of the order
+initially we import the selenium webdriver 
 
+1. To view a particular item, and get glimpse of their pictures
+2. Add the quantity of the items
+3. Selecting the date of order of item
+4. Checking out the item
+5. Right after checking out activating the registration and fetching details of the user like their name , email, address , city country etc 
+6. Accepting the terms and conditions and receiving the successful completion of the order
+
+II. PRODUCT BUY FLOW
+
+1. we include the URL of the particular website right after initializing webdriver
+2. we search the element that we need to buy
+3. view the item and their pictures
+4. include the quantity of the item
+5. adding the item to the cart
+6. selecting or choosing other item that we need to buy and adding the same into the cart
+7. selecting checkout
+8. filling the details of the customer which includes the
+    1. Name
+    2. email
+    3. phone no
+    4. address
+    5. city
+    6. postcode
+    7. country
+    8. region
+9. Accepting the terms and conditions
+10. final price of the selected products
+11. confirming the order
+12. successful completion of the order
 
