@@ -531,3 +531,41 @@ time.sleep(1)
 
 ![Screenshot 2023-02-26 132801](https://user-images.githubusercontent.com/113016903/221399171-7d6a4e14-857a-4ec6-967f-e82585afcde5.jpg)
 
+
+
+
+![image](https://user-images.githubusercontent.com/113016903/221399225-92afdfc3-866c-45a3-b313-4f2cc4dfd45d.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/113016903/221399241-225e4b9c-ede9-48df-9aff-456fec84fba3.png)
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/113016903/221399263-0f809299-0a76-4273-8ac5-9b563bca0941.png)
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/113016903/221399276-e7b6971f-2c53-460b-9018-d4ef37c7ced7.png)
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/113016903/221399307-34ab4ba7-b0eb-4e5c-b2bb-34f1445aa5ad.png)
+
+
+![image](https://user-images.githubusercontent.com/113016903/221399327-6a5c5cbb-b25b-4007-8d22-d967528ec934.png)
+
+
+![image](https://user-images.githubusercontent.com/113016903/221399393-573fd166-4ee0-40d0-8748-74b89ca72090.png)
+
+
+
+
+
