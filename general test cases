@@ -17,8 +17,11 @@ Customer support: Test the customer support functionality, including chatbots, c
 
 In this project i've used the following general test cases for an ecommerce apllication
 
-1. user registration
 2. To view a particular item, get glimpse of their pictures
-3. 
+3. Add the quantity of the items
+4. Selecting the date of order of item
+5. Checking out the item
+6. Right after checking out activating the registration and fetching details of the user like their name , email, address , city country etc 
+7. Accepting the terms and conditions an receiving the successful completion of the order
 
 
